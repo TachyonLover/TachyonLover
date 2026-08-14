@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Robert 👋
 
-<!--
-**TachyonLover/TachyonLover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at **Kennesaw State University** interested in software development, AI, robotics, and embedded systems.
 
-Here are some ideas to get you started:
+* Currently building practical software and embedded projects
+* Interested in **AI, robotics, and computer vision**
+* Learning **AWS, databases, and backend development**
+* Experience with undergraduate research in **soft robotics**
+* Open to internships, freelance work, and collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+
+`Python` `Java` `C#` `Dart` `SQL` `Flutter` `.NET` `Arduino` `Git`
