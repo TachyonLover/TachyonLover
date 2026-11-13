@@ -1,3 +1,5 @@
+![Christmas Lights](https://raw.githubusercontent.com/TachyonLover/TachyonLover/92ed36dd55edecc6ce25058b43e1e92074e8febb/christmaslights-ezgif.gif)
+
 # Hi, I'm Robert! 👋
 
 I'm a Computer Science student at **Kennesaw State University** interested in software engineering, artificial intelligence, robotics, and embedded systems.
