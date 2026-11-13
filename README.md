@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TachyonLover/TachyonLover/92ed36dd55edecc6ce25058b43e1e92074e8febb/christmaslights-ezgif.gif" alt="Christmas Lights" width="300">
+  <img src="https://raw.githubusercontent.com/TachyonLover/TachyonLover/70875c83b8b785f8ddefb5d130f40471adb84417/christmaslights-ezgif-crop.gif"
+       alt="Animated Christmas Lights"
+       width="700">
 </div>
 
 # Hi, I'm Robert! 👋
